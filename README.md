@@ -47,4 +47,4 @@ Deliverables:
   Data warehouse: Designed to handle and store massive amounts of bike ride information
 
   
-                                                
+Data Dictionary:   https://docs.google.com/spreadsheets/d/1eb79VtbjCJ_yyfUtMcgugFpT8capPPOt/edit?usp=sharing&ouid=102749982604433627716&rtpof=true&sd=true     
