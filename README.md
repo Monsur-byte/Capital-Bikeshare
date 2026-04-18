@@ -1,4 +1,7 @@
 # Capital-Bikeshare
+
+Data source: https://capitalbikeshare.com/system-data - this is the dataset to build on this project
+
 This projects end goal is to analyze Capital Bikeshare data to improve their operational efficiency and user experience
 
 Business Requirments:
