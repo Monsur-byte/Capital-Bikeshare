@@ -1,0 +1,19 @@
+HW2 Deliverables
+
+Data Sourcing
+- Data source: https://capitalbikeshare.com/system-data
+- Sourcing script: sourcing.py
+
+Storage
+- Database: Supabase PostgreSQL (cloud-hosted)
+
+Transformation
+- Transformation script: transform.py
+- Data Dictionary & Data Mapping: https://docs.google.com/spreadsheets/d/16Vc836OxcMsyYGpwxLILHkggeLRNarvw0DCdHyCK0O0/edit?pli=1&gid=1137949696#gid=1137949696
+
+Data Warehouse
+- Database creation script: create_tables.sql
+- Tables: fact_trips, dim_station, dim_user, dim_date
+
+Dashboard
+- Tableau Public: https://public.tableau.com/app/profile/monsur.chowdhury4071/viz/CapitalBikeshareDashboard_17795588560630/Dashboard1
